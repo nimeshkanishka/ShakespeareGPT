@@ -1,0 +1,1 @@
+# ShakespeareGPT: A Decoder-Only Transformer with Character-Level Tokenization to generate Shakespeare-like text
